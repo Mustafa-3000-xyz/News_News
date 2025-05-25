@@ -1,0 +1,27 @@
+#x{
+    box-shadow: 2px 2px 10px black;
+    background-color:#c7b0a3;
+}
+
+.header input{
+    background-color:seashell;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    transition: .3s;
+}
+.header input:focus{
+    outline: none;
+}
+
+.header svg{
+    width: 80px;
+}
+
+.arrow{
+    background-color: black;
+    height: 20px;
+    width: 3px;
+}

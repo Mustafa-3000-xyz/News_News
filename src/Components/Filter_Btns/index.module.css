@@ -1,0 +1,11 @@
+.filter_btns button{
+    padding: 3px 22px;
+    border-radius: 3px;
+    font-size: 18px;
+    font-weight: 600;
+    transition: .3s;
+}
+#span{
+    width: fit-content;
+    background-color:#bbb4af94;
+}
